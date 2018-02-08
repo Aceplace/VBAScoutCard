@@ -1,0 +1,12 @@
+Pro-Twin Rt
+Y Rt
+Pro-Twin Lt
+Y Lt
+Pro Wing-Split Rt
+Y Wing Rt
+Pro Wing-Split Lt
+Y Wing Lt
+Twin-Twin Rt
+Five Rt
+Twin-Twin Lt
+Five Lt

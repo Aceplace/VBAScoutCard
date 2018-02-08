@@ -1,0 +1,48 @@
+A Gun Rt
+1
+B Gun Lt
+1
+A Gun Lt
+2
+B Gun Rt
+2
+C Gun Rt
+3
+D Gun Lt
+3
+C Gun Lt
+4
+D Gun Rt
+4
+E Gun Lt
+5
+E Gun Rt
+5
+I Rt
+6
+I Lt
+6
+King Rt
+7
+Queen Lt
+7
+King Gun Rt
+8
+Queen Gun Lt
+8
+King Lt
+9
+Queen Rt
+9
+King Gun Lt
+10
+Queen Gun Rt
+10
+S Rt
+11
+S Lt
+11
+S Gun Rt
+12
+S Gun Lt
+12

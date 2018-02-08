@@ -1,0 +1,36 @@
+Five RtIZ Str42 Over
+3
+Y RtIZ Str42 Over
+4
+Y Wing RtIZ Str42 Over
+5
+Five RtIZ Wk42 Over
+7
+Y RtIZ WK42 Over
+8
+Y Wing RtIZ Wk42 Over
+9
+Five RtIso Str42 Over
+11
+Y RtIso Str42 Over
+12
+Y Wing RtIso Str42 Over
+13
+Five RtIso Wk42 Over
+15
+Y RtIso Wk42 Over
+16
+Y Wing RtIso Wk42 Over
+17
+Five RtDropback Str42 Over
+19
+Y RtDropback Str42 Over
+20
+Y Wing RtDropback Str42 Over
+21
+Five RtDropback Wk42 Over
+23
+Y RtDropback Wk42 Over
+24
+Y Wing RtDropback Wk42 Over
+25
