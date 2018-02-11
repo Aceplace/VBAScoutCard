@@ -1,48 +1,84 @@
+A Rt
+1
+B Lt
+1
 A Gun Rt
-1
+2
 B Gun Lt
-1
+2
+A Lt
+3
+B Rt
+3
 A Gun Lt
-2
+4
 B Gun Rt
-2
+4
+C Rt
+5
+D Lt
+5
 C Gun Rt
-3
+6
 D Gun Lt
-3
+6
+C Sniff Gun Rt
+7
+D Sniff Gun Lt
+7
+C Lt
+8
+D Rt
+8
 C Gun Lt
-4
+9
 D Gun Rt
-4
+9
+C Sniff Gun Lt
+10
+D Sniff Gun Rt
+10
 E Gun Lt
-5
+11
 E Gun Rt
-5
+11
 I Rt
-6
+12
 I Lt
-6
+12
 King Rt
-7
+13
 Queen Lt
-7
+13
 King Gun Rt
-8
+14
 Queen Gun Lt
-8
+14
+King Sniff Gun Rt
+15
+Queen Sniff Gun Lt
+15
 King Lt
-9
+16
 Queen Rt
-9
+16
 King Gun Lt
-10
+17
 Queen Gun Rt
-10
+17
+King Sniff Gun Lt
+18
+Queen Sniff Gun Rt
+18
+Lancer Rt
+19
+Lancer Lt
+19
 S Rt
-11
+20
 S Lt
-11
+20
 S Gun Rt
-12
+21
 S Gun Lt
-12
+21

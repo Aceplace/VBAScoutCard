@@ -1,12 +1,48 @@
-Pro-Twin Rt
+Indy-Split Rt
 1
-Pro-Twin Lt
+Indy-Split Lt
 2
-Pro Wing-Split Rt
+Pro-Twin Rt
 3
-Pro Wing-Split Lt
+Pro-Twin Lt
 4
-Twin-Twin Rt
+Pro-Split Rt
 5
-Twin-Twin Lt
+Pro-Split Lt
 6
+Pro Wing-Twin Rt
+7
+Pro Wing-Twin Lt
+8
+Pro Wing-Split Rt
+9
+Pro Wing-Split Lt
+10
+Tight-Twin Rt
+11
+Tight-Twin Lt
+12
+Trips-Split Rt
+13
+Trips-Split Lt
+14
+Trips Wing-Split Rt
+15
+Trips Wing-Split Lt
+16
+Tight-Trips Lt
+17
+Tight-Trips Rt
+18
+Twin-Twin Rt
+19
+Twin-Twin Lt
+20
+Twin Wing-Twin Rt
+21
+Twin Wing-Twin Lt
+22
+Twin Wing-Twin Wing Rt
+23
+Twin Wing-Twin Wing Lt
+24
