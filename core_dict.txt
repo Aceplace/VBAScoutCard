@@ -106,3 +106,57 @@ Y Wing Y RtDropback Wk42 Over
 60
 Y Wing Y Wing RtDropback Wk42 Over
 61
+Five Wing Wing RtIZArc Str42 Over
+63
+YY RtIZArc Str42 Over
+64
+Y Wing Y RtIZArc Str42 Over
+65
+Y Wing Y Wing RtIZArc Str42 Over
+66
+Y-Wing RtIZArc Str42 Over
+67
+Y-Wing RtIZArc Wk42 Over
+69
+Y RtIZArc WK42 Over
+70
+Y Wing RtIZArc Wk42 Over
+71
+Five Wing RtIZArc Wk42 Over
+72
+Five Wing Wing RtIZArc Wk42 Over
+73
+YY RtIZArc Wk42 Over
+74
+Y Wing Y RtIZArc Wk42 Over
+75
+Y Wing Y Wing RtIZArc Wk42 Over
+76
+Five RtPower Wk42 Over
+78
+Y RtPower Wk42 Over
+79
+Y Wing RtPower Wk42 Over
+80
+Five Wing RtPower Wk42 Over
+81
+YY RtPower Wk42 Over
+82
+Y Wing Y RtPower Wk42 Over
+83
+Y Wing Y Wing RtPower Wk42 Over
+84
+Five RtPower Str42 Over
+86
+Y-Wing RtPower Str42 Over
+87
+Y RtPower Str42 Over
+88
+Y Wing RtPower Str42 Over
+89
+YY RtPower Str42 Over
+90
+Y Wing Y RtPower Str42 Over
+91
+Y Wing Y Wing RtPower Str42 Over
+92
