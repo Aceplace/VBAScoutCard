@@ -1,0 +1,48 @@
+Indy-Split Rt
+Y
+Indy-Split Lt
+Y
+Pro-Twin Rt
+Y
+Pro-Twin Lt
+Y
+Pro-Split Rt
+Y
+Pro-Split Lt
+Y
+Pro Wing-Twin Rt
+YB
+Pro Wing-Twin Lt
+YB
+Pro Wing-Split Rt
+YZ
+Pro Wing-Split Lt
+YZ
+Tight-Twin Rt
+Y
+Tight-Twin Lt
+Y
+Trips-Split Rt
+None
+Trips-Split Lt
+None
+Trips Wing-Split Rt
+B
+Trips Wing-Split Lt
+B
+Tight-Trips Lt
+Y
+Tight-Trips Rt
+Y
+Twin-Twin Rt
+None
+Twin-Twin Lt
+None
+Twin Wing-Twin Rt
+Y
+Twin Wing-Twin Lt
+Y
+Twin Wing-Twin Wing Rt
+YB
+Twin Wing-Twin Wing Lt
+YB
